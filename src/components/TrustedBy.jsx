@@ -1,11 +1,11 @@
 import Amazon from "../assets/Amazon.svg";
-import Dribbble from "../assets/Dribbble.svg";
+
 import Hubspot from "../assets/Hubspot.svg";
 import Notion from "../assets/Notion.svg";
 import Netflix from "../assets/Netflix.svg";
 
 const TrustedBy = () => {
-  const logos = [Amazon, Dribbble, Hubspot, Notion, Netflix];
+  const logos = [Amazon, Hubspot, Notion, Netflix];
 
   return (
     <section className="px-8 py-12">
