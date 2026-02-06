@@ -75,3 +75,5 @@ export default function WorkingProcess() {
     </section>
   );
 }
+git config --global user.email "shubhankitshukla9@gmail.com"
+git config --global user.name "Shubhankit-12"
